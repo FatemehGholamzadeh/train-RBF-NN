@@ -3,7 +3,6 @@ training a RBF network Using ES algorithm - Computational Intelligence Course (S
 
 in this project we implement Evolution Strategy Algorithm and use it to train a RBF Neural Network.  
 
-structure of project is shown in bellow:
 
 <img width="425" alt="rbf" src="https://user-images.githubusercontent.com/44861408/134909024-5cdede84-5553-4703-8965-bc01a5830d47.png">
 
